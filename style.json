@@ -6,7 +6,7 @@
     "anno": {
       "type": "vector",
       "tiles": [
-        "http://localhost:5000/{z}/{x}/{y}.mvt"
+        "https://hfu.github.io/anno-vt/{z}/{x}/{y}.mvt"
       ],
       "minzoom": 0,
       "maxzoom": 12,
