@@ -1,7 +1,7 @@
 {
   "version": 8,
   "name": "Global Map vector tiles",
-  "glyphs": "http://fonts.openmaptiles.org/{fontstack}/{range}.pbf",
+  "glyphs": "https://fonts.openmaptiles.org/{fontstack}/{range}.pbf",
   "sources": {
     "anno": {
       "type": "vector",
