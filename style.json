@@ -1,7 +1,7 @@
 {
   "version": 8,
   "name": "Global Map vector tiles",
-  "glyphs": "https://fonts.openmaptiles.org/{fontstack}/{range}.pbf",
+  "glyphs": "https://hfu.github.io/noto-jp/{fontstack}/{range}.pbf",
   "sources": {
     "anno": {
       "type": "vector",
@@ -47,13 +47,13 @@
       "minzoom": 0,
       "maxzoom": 20,
       "layout": {
-        "text-size": 8,
+        "text-size": 14,
         "text-rotate": {
           "type": "identity",
           "property": "arrngAgl"
         },
         "text-field": "{knj}",
-        "text-font": ["Klokantech Noto Sans CJK Regular"]
+        "text-font": ["NotoSansCJKjp-DemiLight"]
       },
       "paint": {
         "text-color": "#c5192d"
